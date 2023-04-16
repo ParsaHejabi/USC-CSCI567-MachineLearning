@@ -162,3 +162,9 @@ python3 -m pip install --upgrade pip
 ```sh
 pip install -r requirements.txt
 ```
+
+7. Install the pre-commit hooks
+
+```sh
+pre-commit install
+```
