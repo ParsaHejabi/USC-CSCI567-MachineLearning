@@ -168,3 +168,9 @@ pip install -r requirements.txt
 ```sh
 pre-commit install
 ```
+
+## Results
+
+| Model Name                                                                | Train F1 Score       | Test F1 Score |
+| ------------------------------------------------------------------------- | -------------------- | ------------- |
+| Random Forest Classifier (number of estimators: 100, min_samples_leaf: 5) | `0.5894183061461775` | `0.5815`      |
